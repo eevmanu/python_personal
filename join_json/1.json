@@ -1,0 +1,17 @@
+[
+    {
+        "color1": "red1",
+        "color2": "red2",
+        "color3": "red3",
+        "name": "red"
+    },
+    {
+        "color1": "orange1",
+        "color2": "orange2",
+        "color4": "orange3",
+        "color5": "orange4",
+        "color3": "orange6",
+        "color6": "orange5",
+        "name": "orange"
+    }
+]

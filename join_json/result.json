@@ -1,0 +1,37 @@
+[
+    {
+        "color1": "red1",
+        "color2": "red2",
+        "color3": "red3",
+        "name": "red"
+    },
+    {
+        "color1": "orange1",
+        "color2": "orange2",
+        "color3": "orange6",
+        "color4": "orange3",
+        "color5": "orange4",
+        "color6": "orange5",
+        "name": "orange"
+    },
+    {
+        "color1": "blue",
+        "color2": "blue",
+        "color3": "blue",
+        "color4": "blue",
+        "color5": "blue",
+        "name": "blue"
+    },
+    {
+        "color1": "green",
+        "color2": "green",
+        "color3": "green",
+        "color4": "green",
+        "color5": "green",
+        "color6": "green",
+        "color7": "green",
+        "color8": "green",
+        "color9": "green",
+        "name": "green"
+    }
+]
